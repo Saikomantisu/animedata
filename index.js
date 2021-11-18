@@ -1,6 +1,6 @@
 const axios = require('axios').default
 
-module.exports = class Animeinfo {
+module.exports = class Animedata {
 	/**
 	 * @param { string } anime_name Name of the anime you want to search
 	 * @param { Object } [options] Add options

@@ -2,14 +2,14 @@
 Find information about anime
 
 ## Installation ⚙️
-`npm install animeinfo`
+`npm install animedata`
 
 ## How to use ⚒️
 
 ```javascript
-const animeinfo = require('animeinfo')
+const animedata = require('animedata')
 
-const { anime, top } = new animeinfo()
+const { anime, top } = new animedata()
 
 anime('naruto', {
 	_type: 'tv',

@@ -1,5 +1,5 @@
 {
-  "name": "animeinfo",
+  "name": "animedata",
   "version": "1.0.4",
   "description": "jikan API Wrapper",
   "main": "index.js",
