@@ -45,7 +45,7 @@ top('manga')
 - `person_name: string`
 
 
-### ```characterc```
+### ```character```
 - `character_name: string`
 
 ### ```top```
