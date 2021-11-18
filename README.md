@@ -7,7 +7,9 @@ Find information about anime
 ## How to use ⚒️
 
 ```javascript
-const { anime, top } = require('animeinfo')
+const animeinfo = require('animeinfo')
+
+const { anime, top } = new animeinfo()
 
 anime('naruto', {
 	_type: 'tv',
